@@ -10,4 +10,7 @@ public class Application {
 		SpringApplication.run(Application.class, args);
 	}
 
+	public static int checkValue() {
+		return 1;
+	}
 }
